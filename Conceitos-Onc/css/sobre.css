@@ -1,0 +1,34 @@
+#sobre-nos {
+    width: 100%;
+    min-height: 100vh;
+    background: url('/Conceitos-Onc/img/banner-sobre.png') no-repeat center top;
+    background-size: cover;
+    position: relative;
+}
+
+#cta-two {
+    position: absolute;
+    top: 55px;
+    left: 50px;
+    color: #2c4c0c;
+}
+
+#cta-two h1 {
+    font-size: 4.6rem;
+    font-family: "Bebas Neue", sans-serif;
+    margin-top: 27px;
+    white-space: nowrap;
+    color: #fcf6e6;
+    margin-left: 97px;
+}
+
+#cta-two p {
+    font-size: 1.3rem;
+    line-height: 1.8;
+    max-width: 700px;
+    margin-top: 200px;
+    margin-left: 50px;
+    color: #fcf6e6;
+}
+
+
